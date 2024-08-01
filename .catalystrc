@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7821000000007006",
+      "name": "Dharneesh-Portfolio",
+      "domain": {
+        "id": "50021362652",
+        "name": "dharneesh-portfolio-60030928827.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60030928827",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
